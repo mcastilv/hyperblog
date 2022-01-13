@@ -2,8 +2,15 @@ Curso de Git y Github Platzi
 
 Este es un archivo de prueba para git.
 
-Se realizaron las configuraciones de git.
-
-Se utilizan comandos commit, show y log.
-
-Uso de comandos reset y checkout.
+Comandos utilizados:
+- git add .
+- git status
+- git commit -m "texto"
+- git show "nombre_archivo"
+- git log
+- git diff
+- git diff "id 1 a comparar" "id 2 ac comparar"
+- git reset "id" --hard
+- git log --stat
+- git checkout "id" "nombre_archivo"
+- git checkout master "nombre_archivo"
