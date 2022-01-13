@@ -1,0 +1,3 @@
+Curso de Git y Github Platzi
+
+Este es un archivo de prueba para git.
