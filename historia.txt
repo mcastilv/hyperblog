@@ -5,3 +5,5 @@ Este es un archivo de prueba para git.
 Se realizaron las configuraciones de git.
 
 Se utilizan comandos commit, show y log.
+
+Uso de comandos reset y checkout.
